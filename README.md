@@ -1,4 +1,4 @@
-# SistemaVentas-Mantenimiento (16 semanas)
+# SistemaVentas-Mantenimiento
 
 Proyecto base en Java (sin Maven/Gradle) listo para importar en VS Code.
 Diseñado para prácticas de mantenimiento correctivo, perfectivo, adaptativo y preventivo.
